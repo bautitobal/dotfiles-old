@@ -1,0 +1,10 @@
+# vscode
+.vscode/
+# node_modules
+node_modules/
+
+# Unnecessary files
+*.log
+*.env
+*.DS_Store
+*.swp
